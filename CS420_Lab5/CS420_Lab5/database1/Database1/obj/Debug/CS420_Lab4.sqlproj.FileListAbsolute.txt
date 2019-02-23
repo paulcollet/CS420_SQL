@@ -1,0 +1,5 @@
+C:\Users\Paul\Dropbox\Thumb Drive\CS420\CS420_Lab5\Database1\Database1\bin\Debug\CS420_Lab4.dacpac
+C:\Users\Paul\Dropbox\Thumb Drive\CS420\CS420_Lab5\Database1\Database1\bin\Debug\Database1.dll
+C:\Users\Paul\Dropbox\Thumb Drive\CS420\CS420_Lab5\Database1\Database1\bin\Debug\Database1.pdb
+C:\Users\Paul\Dropbox\Thumb Drive\CS420\CS420_Lab5\Database1\Database1\obj\Debug\Database1.dll
+C:\Users\Paul\Dropbox\Thumb Drive\CS420\CS420_Lab5\Database1\Database1\obj\Debug\Database1.pdb
